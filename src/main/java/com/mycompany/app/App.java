@@ -6,7 +6,7 @@ package com.mycompany.app;
 public class App
 {
 
-    private final String message = "Hello World!";
+    private final String message = "Hello World! 张迁 demo 自动构建";
 
     public App() {}
 
